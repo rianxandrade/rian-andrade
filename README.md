@@ -1,4 +1,4 @@
-# Olá, me chamo Rian Andrade! 👋
+# Olá, me chamo Rian Andrade! 🔭
 Bem vindo ao meu perfil no github
 
 - Bacharelando Ciência da Computação pela Faculdade Católica da Paraíba
