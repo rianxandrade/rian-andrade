@@ -1,7 +1,8 @@
 # Olá, me chamo Rian Andrade! 🔭
 Bem vindo ao meu perfil no github 🛸
 
-- Apaixonado por programação, inovação e tecnologia. Atualmente, estou cursando Ciência da Computação e meu foco principal está em desenvolvimento para web.
+- Apaixonado por programação, inovação e tecnologia.
+Atualmente, estou cursando Ciência da Computação e meu foco principal está em desenvolvimento para web.
 
 - Já estudei as seguintes linguagens de programação e marcação:
 
