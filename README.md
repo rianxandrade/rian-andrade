@@ -5,12 +5,6 @@ Bem vindo ao meu perfil no github
 e entusiasta no mundo dos códigos, inovação e tecnologia.
 
 - Já estudei as seguintes linguagens de programação e marcação:
-<style>
-          img {
-                    width:40px;
-                    height:40px
-          }
-</style>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>/>
           
           
