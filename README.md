@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! 🛸
 - Entusiasta do desenvolvimento web, sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.  
 Atualmente estou cursando Ciência da Computação e meu foco principal está em desenvolvimento para web.
 
-- Já estudei as seguintes tecnologias:
+- Atualmente venho me aprofundando em:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
